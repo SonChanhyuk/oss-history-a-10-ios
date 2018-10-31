@@ -15,12 +15,10 @@
 ![oss](https://cdn-images-1.medium.com/max/1600/1*YNBTPaCNBNWLoT7XAbJ1Lw.png)
 
  
-
 출처:
 
 - http://www.looah.com/article/view/1743
 
- 
 
 ## 오픈소스 관련 이슈
 
