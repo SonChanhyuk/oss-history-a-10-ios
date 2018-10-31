@@ -56,7 +56,7 @@
 
 -        한국정보보호진흥원-오픈소스 보안성 관련 이슈 및 대응방안
 
--        [http://www.itworld.co.kr/news/107865#csidx2fabae93b8655ea88bb00ca1a2a5404 ](http://www.itworld.co.kr/news/107865#csidx2fabae93b8655ea88bb00ca1a2a5404)![http://linkback.itworld.co.kr/images/onebyone.gif?action_id=2fabae93b8655ea88bb00ca1a2a5404](file:///C:/Users/thsck/AppData/Local/Temp/msohtmlclip1/01/clip_image003.gif)
+-        http://www.itworld.co.kr/news/107865#csidx2fabae93b8655ea88bb00ca1a2a5404
 
  
 
