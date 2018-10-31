@@ -12,13 +12,13 @@
 
 앞으로의 소프트웨어 시장도 오픈소스 시장이 될 것이다. 오픈소스의 양이 너무 많아졌고 최근의 소프트웨어는 소스코드만 가지고는 무언가를 하기 힘들게 되었고 여러 사람이 쉽게 참여하여 빠른 진화 및 발전이 필요하다.
 
-![http://image3.inews24.com/image_joy/201401/1372159662361_1_203126.jpg](file:///C:/Users/thsck/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![oss](https://cdn-images-1.medium.com/max/1600/1*YNBTPaCNBNWLoT7XAbJ1Lw.png)
 
  
 
 출처:
 
-<http://www.looah.com/article/view/1743>
+- http://www.looah.com/article/view/1743
 
  
 
@@ -197,6 +197,3 @@ ONNX뿐만 아니라 바이두와 엔비디아도 손을 잡고 오픈소스 인
 -        <https://www.acumos.org/>
 
 -        <http://www.bloter.net/archives/297786> 
- !!! answer "test"
-     메시지를 적어주세요.
-     test
