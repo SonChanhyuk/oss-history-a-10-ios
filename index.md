@@ -138,7 +138,7 @@
 | BSD-License    | O               | O               | O                   | O                   | X                      | O                  |
 | Apache-License | O               | O               | O                   | O                   | X                      | O                  |
 
-![osi](https://opensource.org/files/OSI_Approved_License.png)
+![osi](https://blogdotnecbluedotcom.files.wordpress.com/2016/08/open-source.png?w=648)
 
  
 
